@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions', # session框架
     'django.contrib.messages', # 消息框架
     'django.contrib.staticfiles', # 静态文件管理框架
+    'polls',
 ]
 
 MIDDLEWARE = [
